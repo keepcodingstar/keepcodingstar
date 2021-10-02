@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**keepcodingstar/keepcodingstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a student in VIT university.
+- 🌱 I’m currently learning Ui/UX and React.js
+- 👯 I’m looking to collaborate on Front End
+- 🤔 I’m looking for help with Coding
+- 💬 Ask me about Design
+- 📫 How to reach me: https://www.linkedin.com/in/sameer-kapil-30792a1a9/
+- 😄 Pronouns: Be You
+- ⚡ Fun fact: Don Norman coined the term User Experience.
 
-Here are some ideas to get you started:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=keepcodingstar&count_private=true&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keepcodingstar&show_icons=true&theme=radical)
